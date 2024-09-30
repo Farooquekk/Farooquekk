@@ -24,8 +24,8 @@
 
 ### 🚀 About Me:
 
-- 🌱 Currently learning **Advanced JavaScript** 🧑‍💻
-- 💻 Mostly coding in **C++**, **Java**, **JavaScript**, and **SQL**
+- 🌱 Currently learning **React** 🧑‍💻
+- 💻 Mostly coding in **C++**, **Java**, **JavaScript**, **TypeScript**, and **SQL**
 - 🔭 Working on **Advanced JavaScript** projects
 - 🤖 Obsessed with **AI** and its applications
 
@@ -49,6 +49,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwindcss)
 ![Databases](https://img.shields.io/badge/-Databases-333?style=flat&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![GSAP](https://img.shields.io/badge/-GSAP-333?style=flat&logo=greensock)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=flat&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+
 
 ---
 
@@ -99,21 +106,22 @@
 
 ---
 
+---
+
 ### 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farooque-sajjad-233b41282/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/farooquekk92?igsh=YzljYTk1ODg3Zg==)
 
 
----
-
-
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200px">
 </div>
+
+---
+---
+
 
 ### ⭐ Thank you for visiting!
 
