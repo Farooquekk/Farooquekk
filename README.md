@@ -7,8 +7,9 @@
 # Hey there, I'm **Farooque Sajjad!** 👋 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Open-source+enthusiast;Tech+and+Tea+lover!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Open-source+enthusiast;Tech+and+Tea+lover!" alt="Typing SVG">
 </div>
+
 
 ---
 
