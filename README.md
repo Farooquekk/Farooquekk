@@ -27,7 +27,7 @@
 
 - 🌱 Currently learning **React** 🧑‍💻
 - 💻 Mostly coding in **C++**, **Java**, **JavaScript**, **TypeScript**, and **SQL**
-- 🔭 Working on **Advanced JavaScript** projects
+- 🔭 Working on **REACT** projects
 - 🤖 Obsessed with **AI** and its applications
 
 
