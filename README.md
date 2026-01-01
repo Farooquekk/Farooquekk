@@ -1,137 +1,91 @@
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200px">
+  <img src="https://cdn-icons-png.flaticon.com/512/6070/6070879.png" width="600px">
 </div>
 
-# Hey there, I'm **Farooque Sajjad!** 👋 👨‍💻
+# 🛡️ SYSTEM STATUS: ONLINE | **Farooque Sajjad** 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Open-source+enthusiast;Tech+and+Tea+lover!" alt="Typing SVG">
-</div>
-
-
----
-
-<div align="center">
-  
-[![Profile views](https://komarev.com/ghpvc/?username=Farooquekk&style=flat-square&color=brightgreen)](https://github.com/Farooquekk)
-[![GitHub followers](https://img.shields.io/github/followers/Farooquekk?label=Follow&style=social)](https://github.com/Farooquekk)
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Cyber+Security+Enthusiast;Python+%2B+Django+Developer;Defensive+Security+Analyst" alt="Typing SVG">
 </div>
 
 ---
 
+### ⚡ Secure Access Node: About Me
+> "Securing the perimeter, one line of code at a time."
 
-### 🚀 About Me:
-
-- 🌱 Currently learning **React** 🧑‍💻
-- 💻 Mostly coding in **C++**, **Java**, **JavaScript**, **TypeScript**, and **SQL**
-- 🔭 Working on **REACT** projects
-- 🤖 Obsessed with **AI** and its applications
-
+- 🛡️ **Objective**: Building resilient applications and exploring the depths of **Cyber Security**.
+- 🐍 **Backend**: Currently scaling with **Python** and **Django** frameworks.
+- 📊 **Intelligence**: Implementing data insights using **NumPy**, **Pandas**, and **Scikit-Learn**.
+- 🔍 **Recon**: Practicing network analysis with **Nmap** and **Wireshark**.
+- 🤖 **AI Integration**: Merging Machine Learning with defensive security protocols.
 
 ---
 
+### 🛡️ Defensive Stack & Arsenal
+
+**Programming & Frameworks**
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
+![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
+
+**Data Science & Machine Learning**
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat-square&logo=scikitlearn)
+
+**Cyber Security & Networking**
+![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-333?style=flat-square&logo=nmap)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman)
+![Networking](https://img.shields.io/badge/-Networking-00BFFF?style=flat-square)
+
+**Tools & Environment**
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333?style=flat-square&logo=intellijidea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat-square&logo=pycharm)
+![LucidChart](https://img.shields.io/badge/-LucidChart-333?style=flat-square&logo=lucidchart)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+
+---
+
+### 🌑 System Monitoring (Metrics)
+
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farooquekk&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farooquekk&layout=compact&theme=tokyonight" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farooquekk&theme=tokyonight" width="100%">
 </div>
 
 ---
 
-
-### 🛠️ Technologies & Tools:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwindcss)
-![Databases](https://img.shields.io/badge/-Databases-333?style=flat&logo=mysql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![GSAP](https://img.shields.io/badge/-GSAP-333?style=flat&logo=greensock)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=flat&logo=intellijidea)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
-
-
----
-
----
+### 📡 Encrypted Communication Channels
 
 <div align="center">
-  
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Farooquekk&show_icons=true&theme=radical" width="400px">
-  
-  <br><br>
 
-  
-  <h3>💻 Language Usage</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farooquekk&layout=compact&theme=radical" width="400px">
-  
-  <br><br> 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farooque-sajjad-233b41282/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farooquekk92)
 
-  
-  <h3>🔥 Longest Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farooquekk&theme=radical" width="400px">
-  
-  <br><br> 
-
-  
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Farooquekk&theme=radical&no-frame=true&row=1&column=6" width="500px">
-
-  <br><br> 
 </div>
 
 ---
 
-
----
-
-### 🎯 Fun Facts & Coding Tips:
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="600px">
-</div>
-
-> _**Pro Tip**_: "Code is like humor. When you have to explain it, it’s bad." 😂
+### 🧩 Security Logs (Fun Facts)
+- **Encryption Logic**: "The only secure code is the code that's never written."
+- **Daily Routine**: `Scan -> Patch -> Deploy -> Coffee`.
+- **System Weakness**: I can't resist a good cup of tea while debugging a network handshake.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" width="250px">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500px">
 </div>
 
 ---
-
----
-
-### 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farooque-sajjad-233b41282/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/farooquekk92?igsh=YzljYTk1ODg3Zg==)
-
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200px">
+  <sub>End of Transmission. Star this repo to grant access. 🌟</sub>
 </div>
-
----
----
-
-
-### ⭐ Thank you for visiting!
-
-If you like what you see, consider giving a star 🌟 to my [**repositories**](https://github.com/Farooquekk?tab=repositories) or connecting with me!
-
-<div align="center">
-  <img src="https://media.tenor.com/kMkgKTD1s_AAAAAM/no-pikachu.gif" width="200px">
-</div>
-
----
-
-#### 🔔 Stay tuned for more projects, tips, and updates!
