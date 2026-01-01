@@ -50,7 +50,7 @@
 
 ---
 
-## 🌑 System Monitoring (Stable & Free)
+## 🌑 System Monitoring 
 
 <p align="center">
   <img src="https://ghchart.rshah.org/1E90FF/Farooquekk" alt="GitHub Contribution Graph" />
